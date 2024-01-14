@@ -1,7 +1,7 @@
 # URLScanner
 Comprehensive ML-Driven URL Scanner
 
-## Demo:  https://hackxcybersec-mbwvdq2qcnblxralpaha8q.streamlit.app/
+# Demo:  https://hackxcybersec-mbwvdq2qcnblxralpaha8q.streamlit.app/
 
 - Achieved an accuracy of 97.2% by evaluating an ensemble of machine learning models, with a focus on using an XGBoost Classifier following 10-fold validation for URL fuzzing.
 - Conducted HTTP GET requests and analyzed returned statuses to distinguish live from non-live URLs.
