@@ -1,5 +1,5 @@
 # URLScanner
-Comprehensive ML-Driven URL Scanner
+Comprehensive ML-Driven URL Scanner. This repository contains all essential files related to the MUJ HACKX Hackathon.
 
 # Demo:  https://hackxcybersec-mbwvdq2qcnblxralpaha8q.streamlit.app/
 
